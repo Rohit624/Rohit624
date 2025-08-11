@@ -1,3 +1,5 @@
+![Data Banner](https://www.shutterstock.com/search/data-analytics-banner)
+
 <h1 align="center">Hi , I'm Rohit Bansiwal</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 
