@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo23264
-Fork on GitHub7889
+
 <h1 align="center">Hi , I'm Rohit Bansiwal</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 
