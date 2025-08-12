@@ -1,4 +1,4 @@
-![Data Banner]([https://www.shutterstock.com/search/data-analytics-banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmM2YmVvN3YwaGNka3JseWRvbGp4bGZ2NnZtdWt3dW9zYm5leTZ1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif)
+![Data Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmM2YmVvN3YwaGNka3JseWRvbGp4bGZ2NnZtdWt3dW9zYm5leTZ1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif)
 
 <h1 align="center">Hi , I'm Rohit Bansiwal</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
