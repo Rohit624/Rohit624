@@ -1,8 +1,9 @@
 
 
-<h1 align="center">Hi , I'm Rohit Bansiwal</h1>
+<h1 align="center" >Hi , I'm Rohit Bansiwal</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 
+<br>
 
 - 🌱 I’m currently learning **Power BI, SQL, Python**
 
